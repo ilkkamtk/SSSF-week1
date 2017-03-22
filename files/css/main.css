@@ -99,6 +99,10 @@ img {
     width: 100%;
 }
 
+article {
+    cursor: pointer;
+}
+
 
 
 
